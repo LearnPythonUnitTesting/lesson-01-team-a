@@ -1,0 +1,34 @@
+{
+  "tests": [
+    {
+      "name": "test1",
+      "setup": "",
+      "run": "python -m unittest test_person_01",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 100
+    },
+    {
+      "name": "test2",
+      "setup": "",
+      "run": "python -m unittest test_person_02",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 100
+    },
+    {
+      "name": "test3",
+      "setup": "",
+      "run": "python -m unittest test_person_03",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 100
+    }
+  ]
+}
